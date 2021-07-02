@@ -63,7 +63,7 @@ public class BoardController {
 		//첨부 파일 확인
 //		if(vo.getAttachList()!=null) {
 //			vo.getAttachList().forEach(attach -> log.info(""+attach));
-//		}
+//		} 
 //		
 //		return "redirect:register";
 		
