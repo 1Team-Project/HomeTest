@@ -1,2 +1,3 @@
  21.7.3 깃 연동 테스트 메모장
- 노영권
+ 노영권 git branch yknoh 제작
+ master 병합 확인
